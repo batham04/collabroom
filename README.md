@@ -4,7 +4,8 @@ Web Based Mini Project
 Team Members 
 1. Kirti Gupta
 2. Dolly Kushwaha
-3. 
+3. Titiksha
+4. 
 Using Next.js and Typescript, this project focuses on building video conferencing web app. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
 
 Tech Stack 
