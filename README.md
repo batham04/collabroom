@@ -28,3 +28,4 @@ The web app will comprise of following features:
 6. Join meetings via link
 7. Secure real time functionality
 8. Responsive Design
+git fetch upstream
